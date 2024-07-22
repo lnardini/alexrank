@@ -1,0 +1,4 @@
+.venv*
+*.pyc
+python/sggapikey.txt
+.DS_Store
